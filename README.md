@@ -7,8 +7,13 @@
 
 
 ### About me
-Hi! My name is Rary Gonçalves. I'm Web Developer at **EJECT**.
-I'm studying the Bachelor of Science and Technology at **UFRN** and I'm Computer Technician by **IFRN**.
+:man: Hi! My name is Rary Gonçalves!
+
+:briefcase: I'm working as Web Developer at EJECT
+
+:mortar_board: I'm studying the Bachelor of Science and Technology at UFRN
+
+:mortar_board: I'm Technician of Computer by IFRN
 
 ### My Skills
 
