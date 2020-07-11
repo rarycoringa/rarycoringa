@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hey, welcome to my profile 👋
+
+[![Linkedin Badge](https://img.shields.io/badge/-rarygoncalves-grey?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rarygoncalves/)](https://www.linkedin.com/in/rarygoncalves/)
+[![Twitter Badge](https://img.shields.io/badge/-@rarygoncalves-grey?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rarygoncalves)](https://twitter.com/rarygoncalves)
+[![Instagram Badge](https://img.shields.io/badge/-@rarygoncalves-grey?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/raryegoncalves/)](https://www.instagram.com/raryegoncalves/)
 
 <!--
 **rarygoncalves/rarygoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
