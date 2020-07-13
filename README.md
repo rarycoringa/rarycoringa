@@ -2,7 +2,7 @@
 
 <img align="right" width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/248/flag-brazil_1f1e7-1f1f7.png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rary%20Goncalves-grey?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rarygoncalves/)](https://www.linkedin.com/in/rarygoncalves/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rary%20Gonçalves-grey?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rarygoncalves/)](https://www.linkedin.com/in/rarygoncalves/)
 [![Twitter Badge](https://img.shields.io/badge/-rarygoncalves-grey?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/rarygoncalves)](https://twitter.com/rarygoncalves)
 [![Instagram Badge](https://img.shields.io/badge/-raryegoncalves-grey?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/raryegoncalves/)](https://www.instagram.com/raryegoncalves/)
 ![Gmail Badge](https://img.shields.io/badge/-raryemanuel@gmail.com-grey?style=flat&logo=gmail&logoColor=white)
