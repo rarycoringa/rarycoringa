@@ -11,9 +11,10 @@
 - 🙋🏽‍♂️ Hi! My name is Rary Gonçalves!
 - 🚀 I'm working as Web Developer at EJECT
 - 🐧 I'm an open source enthusiast
-- ♾️ I'm learning about DevOps
-- 🎓 I'm studying the Bachelor of Science and Technology at UFRN
+- ♾️ I'm learning about DevOps practices
+- ✔️ I'm also learning about Test-Driven Development
 - 🖥️ I'm Technician of Computer by IFRN
+- 🎓 I'm also studying the Bachelor of Science and Technology at UFRN
 
 #### My Skills
 - ![Python Badge](https://img.shields.io/badge/Python-grey?style=flat&logo=Python&logoColor=white)
@@ -34,13 +35,13 @@
 - ![Git Badge](https://img.shields.io/badge/Git-grey?style=flat&logo=Git&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-grey?style=flat&logo=GitHub&logoColor=white)
 ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-grey?style=flat&logo=GitHub%20Actions&logoColor=white)
-![CircleCI Badge](https://img.shields.io/badge/CircleCI-lightgrey?style=flat&logo=CircleCI&logoColor=white)
+![CircleCI Badge](https://img.shields.io/badge/CircleCI-grey?style=flat&logo=CircleCI&logoColor=white)
 ![Travis CI Badge](https://img.shields.io/badge/Travis%20CI-lightgrey?style=flat&logo=Travis%20CI&logoColor=white)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-lightgrey?style=flat&logo=Jenkins&logoColor=white)
 
-- ![AWS Badge](https://img.shields.io/badge/AWS-grey?style=flat&logo=Amazon%20AWS&logoColor=white)
-![Heroku Badge](https://img.shields.io/badge/Heroku-grey?style=flat&logo=Heroku&logoColor=white)
-![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-lightgrey?style=flat&logo=DigitalOcean&logoColor=white)
+- ![Heroku Badge](https://img.shields.io/badge/Heroku-grey?style=flat&logo=Heroku&logoColor=white)
+![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-grey?style=flat&logo=DigitalOcean&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-lightgrey?style=flat&logo=Amazon%20AWS&logoColor=white)
 
 - ![Linux Badge](https://img.shields.io/badge/Linux-grey?style=flat&logo=Linux&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-grey?style=flat&logo=Ubuntu&logoColor=white)
