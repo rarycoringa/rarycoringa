@@ -1,4 +1,4 @@
-## Hey, I'm Rary! Welcome to my GitHub profile!
+## Hi, I'm Rary!👋🏽👨🏽‍💻
 
 <img align="right" width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/248/flag-brazil_1f1e7-1f1f7.png">
 
@@ -10,8 +10,7 @@
 #### About me
 - 🙋🏽‍♂️ Hi! My name is Rary Gonçalves!
 - 🚀 I'm working as Web Developer at EJECT
-- 🐧 I'm an open source enthusiast
-- ♾️ I'm learning about DevOps practices
+- ♾️ I'm an DevOps enthusiast and I'm learning about CI/CD
 - ✔️ I'm also learning about Test-Driven Development
 - 🖥️ I'm Technician of Computer by IFRN
 - 🎓 I'm also studying the Bachelor of Science and Technology at UFRN
