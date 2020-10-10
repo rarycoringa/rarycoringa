@@ -9,13 +9,13 @@
 
 #### About me
 - 🙋🏽‍♂️ Hi! My name is Rary Gonçalves!
-- 🚀 I'm working as Web Developer at EJECT
+- 🚀 I'm working as Web Developer
 - ♾️ I'm an DevOps enthusiast and I'm learning about CI/CD
 - ✔️ I'm also learning about Test-Driven Development
 - 🖥️ I'm Technician of Computer by IFRN
 - 🎓 I'm also studying the Bachelor of Science and Technology at UFRN
 
-#### My Skills
+#### My Hard Skills
 - ![Python Badge](https://img.shields.io/badge/Python-grey?style=flat&logo=Python&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=JavaScript&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=HTML5&logoColor=white)
@@ -31,9 +31,7 @@
 ![MariaDB Badge](https://img.shields.io/badge/MariaDB-lightgrey?style=flat&logo=MariaDB&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-lightgrey?style=flat&logo=MySQL&logoColor=white)
 
-- ![Git Badge](https://img.shields.io/badge/Git-grey?style=flat&logo=Git&logoColor=white)
-![GitHub Badge](https://img.shields.io/badge/GitHub-grey?style=flat&logo=GitHub&logoColor=white)
-![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-grey?style=flat&logo=GitHub%20Actions&logoColor=white)
+- ![GitHub Actions Badge](https://img.shields.io/badge/GitHub%20Actions-grey?style=flat&logo=GitHub%20Actions&logoColor=white)
 ![CircleCI Badge](https://img.shields.io/badge/CircleCI-grey?style=flat&logo=CircleCI&logoColor=white)
 ![Travis CI Badge](https://img.shields.io/badge/Travis%20CI-lightgrey?style=flat&logo=Travis%20CI&logoColor=white)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-lightgrey?style=flat&logo=Jenkins&logoColor=white)
