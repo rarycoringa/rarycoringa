@@ -21,7 +21,7 @@
 ![C++ Badge](https://img.shields.io/badge/C++-lightgrey?style=flat&logo=C%2B%2B&logoColor=white)
 
 - ![Django Badge](https://img.shields.io/badge/Django-grey?style=flat&logo=Django&logoColor=white)
-![Node.js Badge](https://img.shields.io/badge/Node.js-lightgrey?style=flat&logo=Node.js&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/Node.js-grey?style=flat&logo=Node.js&logoColor=white)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-lightgrey?style=flat&logo=Vue.js&logoColor=white)
 
 - ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=PostgreSQL&logoColor=white)
