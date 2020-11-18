@@ -9,7 +9,7 @@
 - 🙋🏽‍♂️ Hi! My name is Rary Gonçalves!
 - 💼 I'm working as Software Developer at SINFO/UFRN
 - ♾️ I'm an DevOps enthusiast and I'm learning about CI/CD
-- 🐋 I'm also learning about Docker and Kubernets
+- 🐋 I'm also learning about Docker and Kubernetes
 - 🖥️ I'm Technician of Computer by IFRN
 - 🎓 I'm also studying the Bachelor of Science and Technology at UFRN
 
@@ -25,6 +25,7 @@
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-lightgrey?style=flat&logo=Vue.js&logoColor=white)
 
 - ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-grey?style=flat&logo=PostgreSQL&logoColor=white)
+![MongoDB Badge](https://img.shields.io/badge/MongoDB-lightgrey?style=flat&logo=MongoDB&logoColor=white)
 ![SQLite Badge](https://img.shields.io/badge/SQLite-grey?style=flat&logo=SQLite&logoColor=white)
 ![MariaDB Badge](https://img.shields.io/badge/MariaDB-lightgrey?style=flat&logo=MariaDB&logoColor=white)
 ![MySQL Badge](https://img.shields.io/badge/MySQL-lightgrey?style=flat&logo=MySQL&logoColor=white)
@@ -34,9 +35,11 @@
 ![Travis CI Badge](https://img.shields.io/badge/Travis%20CI-lightgrey?style=flat&logo=Travis%20CI&logoColor=white)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-lightgrey?style=flat&logo=Jenkins&logoColor=white)
 
-- ![Heroku Badge](https://img.shields.io/badge/Heroku-grey?style=flat&logo=Heroku&logoColor=white)
+- ![Docker Badge](https://img.shields.io/badge/Docker-lightgrey?style=flat&logo=Docker&logoColor=white)
+![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-lightgrey?style=flat&logo=Kubernetes&logoColor=white)
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-grey?style=flat&logo=DigitalOcean&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/AWS-lightgrey?style=flat&logo=Amazon%20AWS&logoColor=white)
+![Heroku Badge](https://img.shields.io/badge/Heroku-grey?style=flat&logo=Heroku&logoColor=white)
 
 - ![Linux Badge](https://img.shields.io/badge/Linux-grey?style=flat&logo=Linux&logoColor=white)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-grey?style=flat&logo=Ubuntu&logoColor=white)
