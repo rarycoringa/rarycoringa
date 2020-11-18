@@ -9,7 +9,7 @@
 - 🙋🏽‍♂️ Hi! My name is Rary Gonçalves!
 - 💼 I'm working as Software Developer at SINFO/UFRN
 - ♾️ I'm an DevOps enthusiast and I'm learning about CI/CD
-- ✔️ I'm also learning about Test-Driven Development
+- 🐋 I'm also learning about Docker and Kubernets
 - 🖥️ I'm Technician of Computer by IFRN
 - 🎓 I'm also studying the Bachelor of Science and Technology at UFRN
 
