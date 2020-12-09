@@ -18,7 +18,7 @@
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=JavaScript&logoColor=white)
 ![HTML Badge](https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=HTML5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-lightgrey?style=flat&logo=CSS3&logoColor=white)
-![C++ Badge](https://img.shields.io/badge/C++-lightgrey?style=flat&logo=C%2B%2B&logoColor=white)
+![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat&logo=C%2B%2B&logoColor=white)
 
 - ![Django Badge](https://img.shields.io/badge/Django-grey?style=flat&logo=Django&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-grey?style=flat&logo=Node.js&logoColor=white)
@@ -35,7 +35,7 @@
 ![Travis CI Badge](https://img.shields.io/badge/Travis%20CI-lightgrey?style=flat&logo=Travis%20CI&logoColor=white)
 ![Jenkins Badge](https://img.shields.io/badge/Jenkins-lightgrey?style=flat&logo=Jenkins&logoColor=white)
 
-- ![Docker Badge](https://img.shields.io/badge/Docker-lightgrey?style=flat&logo=Docker&logoColor=white)
+- ![Docker Badge](https://img.shields.io/badge/Docker-grey?style=flat&logo=Docker&logoColor=white)
 ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-lightgrey?style=flat&logo=Kubernetes&logoColor=white)
 ![DigitalOcean Badge](https://img.shields.io/badge/DigitalOcean-grey?style=flat&logo=DigitalOcean&logoColor=white)
 ![AWS Badge](https://img.shields.io/badge/AWS-lightgrey?style=flat&logo=Amazon%20AWS&logoColor=white)
