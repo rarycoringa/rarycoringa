@@ -16,8 +16,8 @@
 #### My Hard Skills
 - ![Python Badge](https://img.shields.io/badge/Python-grey?style=flat&logo=Python&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-grey?style=flat&logo=JavaScript&logoColor=white)
-![HTML Badge](https://img.shields.io/badge/HTML-lightgrey?style=flat&logo=HTML5&logoColor=white)
-![CSS Badge](https://img.shields.io/badge/CSS-lightgrey?style=flat&logo=CSS3&logoColor=white)
+![HTML Badge](https://img.shields.io/badge/HTML-grey?style=flat&logo=HTML5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-grey?style=flat&logo=CSS3&logoColor=white)
 ![C++ Badge](https://img.shields.io/badge/C++-grey?style=flat&logo=C%2B%2B&logoColor=white)
 
 - ![Django Badge](https://img.shields.io/badge/Django-grey?style=flat&logo=Django&logoColor=white)
