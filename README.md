@@ -1,6 +1,6 @@
 ## Hi, I'm Rary!👋🏽👨🏽‍💻
 
-<img align="right" width="25" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/twitter/248/flag-brazil_1f1e7-1f1f7.png">
+<img align="right" width="25" src="img/brazilian-flag.png">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rary%20Gonçalves-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rarygc/)](https://www.linkedin.com/in/rarygc/)
 [![Medium Badge](https://img.shields.io/badge/-Rary%20Gonçalves-grey?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@rarygc)](https://medium.com/@rarygc)
