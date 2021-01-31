@@ -7,8 +7,8 @@
 
 <img align="right" width="150" src="img/logo-r.png">
 
-#### About me
+#### ABOUT ME
 
 I'm a **Software Developer** with experience in **Python** and **Django**. I am also an enthusiast of the **DevOps** culture as an agile methodology in software development and currently study the JavaScript universe.
 
-💼 I'm currently working as Software Developer at SINFO/UFRN.
+I'm currently working as Software Developer at SINFO/UFRN.
