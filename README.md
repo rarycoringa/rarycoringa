@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Rary%20Gonçalves-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rarygc/)](https://www.linkedin.com/in/rarygc/)
 [![Medium Badge](https://img.shields.io/badge/-Rary%20Gonçalves-grey?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@rarygc)](https://medium.com/@rarygc)
 
-<img align="right" width="150" src="img/logo-r.png">
+<img align="right" width="150" src="img/r-blue.png">
 
 #### ABOUT ME
 
