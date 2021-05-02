@@ -7,7 +7,7 @@
 
 #### ABOUT ME
 
-<img align="right" width="100" src="img/r-blue.png">
+<img align="right" width="100" src="img/r-orange.png">
 
 I'm a **Software Developer** with experience in **Web Development** with **Python** and **Django**. I am also an enthusiast of the **DevOps** culture as an agile methodology in software development and currently study the JavaScript universe.
 
