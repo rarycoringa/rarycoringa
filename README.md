@@ -9,6 +9,8 @@
 
 <img align="right" width="100" src="img/r-orange.png">
 
-I'm a **Software Developer** with experience in **Web Development** with **Python** and **Django**. I am also an enthusiast of the **DevOps** culture as an agile methodology in software development and currently study the JavaScript universe.
+I'm a **Software Developer** with experience in **Web Development** with **Python** (Flask and Django). I am also an enthusiast of the **DevOps** culture as an agile methodology in software development and currently study Docker and Kubernetes.
 
-I'm currently working as Software Developer at SINFO/UFRN.
+I'm currently working as Python Backend Developer at **[DevGrid](https://devgrid.co.uk)**.
+
+Visit my webiste: www.rary.dev
