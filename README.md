@@ -13,4 +13,4 @@ I'm a **Software Developer** with experience in **Web Development** with **Pytho
 
 I'm currently working as Python Backend Developer at **[DevGrid](https://devgrid.co.uk)**.
 
-Visit my webiste: www.rary.dev
+Visit my website: www.rary.dev
