@@ -1,5 +1,6 @@
 ## Hi, I'm Rary!👋🏽👨🏽‍💻
 
+<img align="right" width="25" src="img/british-flag.png">
 <img align="right" width="25" src="img/brazilian-flag.png">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rary%20Gonçalves-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rarygc/)](https://www.linkedin.com/in/rarygc/)
