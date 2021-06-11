@@ -4,7 +4,6 @@
 <img align="right" width="25" src="img/brazilian-flag.png">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rary%20Gonçalves-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rarygc/)](https://www.linkedin.com/in/rarygc/)
-[![Medium Badge](https://img.shields.io/badge/-Rary%20Gonçalves-grey?style=flat&logo=Medium&logoColor=white&link=https://medium.com/@rarygc)](https://medium.com/@rarygc)
 ![Gmail Badge](https://img.shields.io/badge/-contact@rary.dev-grey?style=flat&logo=Gmail&logoColor=white)
 
 #### ABOUT ME
