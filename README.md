@@ -1,5 +1,6 @@
 ## Hi, I'm Rary!👋🏽👨🏽‍💻
 
+<img align="right" width="25" src="img/american-flag.png">
 <img align="right" width="25" src="img/british-flag.png">
 <img align="right" width="25" src="img/brazilian-flag.png">
 
@@ -12,6 +13,6 @@
 
 I'm a **Software Developer** with experience in **Web Development** with **Python** *(Flask and Django)*. I am also an enthusiast of the **DevOps** culture as an agile methodology in software development and currently study **Docker** and **Kubernetes**.
 
-I'm currently working as *Python Backend Developer* at **[DevGrid](https://devgrid.co.uk)**.
+I'm currently working as *Python Backend Developer* at **[DevGrid](https://devgrid.co.uk)**, with international teams, delivering to customers in United Kingdom and United States of America.
 
 Visit my website: www.rary.dev
