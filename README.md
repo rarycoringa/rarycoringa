@@ -1,4 +1,4 @@
-## Hi, I'm Rary!👋🏽👨🏽‍💻
+## Hi, I'm Rary! 👋🏽👨🏽‍💻
 
 <img align="right" width="25" src="img/flag-united-states.png">
 <img align="right" width="25" src="img/flag-united-kingdom.png">
