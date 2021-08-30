@@ -13,6 +13,6 @@
 
 I'm a brazilian **Software Developer** with experience in **Web Development** with **Python** *(Flask and Django)*. I am also an enthusiast of the **DevOps** culture as an agile methodology in software development and currently study **Docker** and **Kubernetes**.
 
-I'm currently working as *Python Backend Developer* at **[DevGrid](https://devgrid.co.uk)**, with international teams, delivering to customers in United Kingdom and United States of America.
+I'm currently working as *Python Developer* at **[DevGrid](https://devgrid.co.uk)**, with international teams, delivering to customers in United Kingdom and United States of America.
 
 Visit my website: www.rary.dev
