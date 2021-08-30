@@ -4,7 +4,7 @@
 <img align="right" width="25" src="img/flag-united-kingdom.png">
 <img align="right" width="25" src="img/flag-brazil.png">
 
-[![Linkedin Badge](https://img.shields.io/badge/-Rary%20Coringa-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rarygc/)](https://www.linkedin.com/in/rarygc/)
+[![Linkedin Badge](https://img.shields.io/badge/-Rary%20Coringa-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rarycoringa/)](https://www.linkedin.com/in/rarycoringa/)
 ![Gmail Badge](https://img.shields.io/badge/-contact@rary.dev-grey?style=flat&logo=Gmail&logoColor=white)
 
 #### ABOUT ME
