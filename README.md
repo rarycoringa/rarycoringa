@@ -1,5 +1,6 @@
 ## Hi, I'm Rary! 👋🏽👨🏽‍💻
 
+<!-- These flags are found on https://emojipedia.org/flags/ and the Twitter emoji version is being used here -->
 <img align="right" width="25" src="img/flag-united-states.png">
 <img align="right" width="25" src="img/flag-united-kingdom.png">
 <img align="right" width="25" src="img/flag-brazil.png">
