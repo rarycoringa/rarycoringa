@@ -20,4 +20,4 @@ Visit my website: www.rary.dev
 
 ---
 
-<a href="https://help.rescue.org/donate-br/ukraine-crisis"><img align="center" width="25" src="img/flag-ukraine.png"> Donate to Ukraine</a>
+<div align="center"><a href="https://help.rescue.org/donate-br/ukraine-crisis" align="center"><img align="center" width="25" src="img/flag-ukraine.png"> Donate to Ukraine <img align="center" width="25" src="img/flag-ukraine.png"></a></div>
