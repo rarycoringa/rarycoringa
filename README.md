@@ -4,6 +4,7 @@
 <img align="right" width="25" src="img/flag-united-states.png">
 <img align="right" width="25" src="img/flag-united-kingdom.png">
 <img align="right" width="25" src="img/flag-brazil.png">
+<div align="right"><a href="https://help.rescue.org/donate-br/ukraine-crisis" align="center"><img align="center" width="25" src="img/flag-ukraine.png"> Donate to Ukraine <img align="center" width="25" src="img/flag-ukraine.png"></a></div>
 
 [![Linkedin Badge](https://img.shields.io/badge/-Rary%20Coringa-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rarycoringa/)](https://www.linkedin.com/in/rarycoringa/)
 ![Gmail Badge](https://img.shields.io/badge/-contact@rary.dev-grey?style=flat&logo=Gmail&logoColor=white)
