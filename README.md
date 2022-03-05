@@ -17,3 +17,7 @@ I'm a brazilian **Software Developer** with experience in **Web Development** wi
 I'm currently working as *Python Developer* at **[DevGrid](https://devgrid.co.uk)**, with international teams, delivering to customers in United Kingdom and United States of America.
 
 Visit my website: www.rary.dev
+
+---
+
+<a href="https://help.rescue.org/donate-br/ukraine-crisis"><img align="center" width="25" src="img/flag-ukraine.png"> Donate to Ukraine</a>
