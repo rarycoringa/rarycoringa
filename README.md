@@ -1,23 +1,28 @@
-## Hi, I'm Rary! 👋🏽👨🏽‍💻
-
+<h1> Hi, I'm Rary! 👋🏽👨🏽‍💻</h1>
 <!-- These flags are found on https://emojipedia.org/flags/ and the Twitter emoji version is being used here -->
 <img align="right" width="25" src="img/flag-united-states.png">
 <img align="right" width="25" src="img/flag-united-kingdom.png">
 <img align="right" width="25" src="img/flag-brazil.png">
+<div align="left"><a href="https://help.rescue.org/donate-br/ukraine-crisis" target="_blank"><img align="center" width="25" src="img/flag-ukraine.png"> Donate to Ukraine</a></div>
 
-<div align="left"><a href="https://help.rescue.org/donate-br/ukraine-crisis"><img align="center" width="25" src="img/flag-ukraine.png"><b> Donate to Ukraine</b></a></div>
+<h4>ABOUT ME</h4>
 
-<!-- [![Linkedin Badge](https://img.shields.io/badge/-Rary%20Coringa-grey?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rarycoringa/)](https://www.linkedin.com/in/rarycoringa/)
-![Gmail Badge](https://img.shields.io/badge/-contact@rary.dev-grey?style=flat&logo=Gmail&logoColor=white) -->
+<div align="left">
+  <p>
+    I'm a brazilian <b>Software Developer</b> with experience in <b>Web Development</b> with <b>Python</b> <i>(Flask and Django)</i>. I am also an enthusiast of the <b>DevOps</b> culture as an agile methodology in software development and currently study <b>Docker</b> and <b>Kubernetes</b>.
+  </p>
+  <p>
+    I'm currently working as <i>Python Developer</i> at <a href="https://devgrid.co.uk" target="_blank"><b>DevGrid</b></a>, with international teams, delivering to customers in United Kingdom and United States of America.
+  </p>
+</div>
 
-#### ABOUT ME
+<div align="left">
+  <!--  add social links here  -->
+  <img align="left" width="45" src="img/r-orange.png">
+  <b>Rary Coringa</b>
+  <br/>Software Developer
+</div>
 
-<img align="right" width="100" src="img/r-orange.png">
-
-I'm a brazilian **Software Developer** with experience in **Web Development** with **Python** *(Flask and Django)*. I am also an enthusiast of the **DevOps** culture as an agile methodology in software development and currently study **Docker** and **Kubernetes**.
-
-I'm currently working as *Python Developer* at **[DevGrid](https://devgrid.co.uk)**, with international teams, delivering to customers in United Kingdom and United States of America.
-
-Visit my website: www.rary.dev
-
-<div align="left"><a href="https://help.rescue.org/donate-br/ukraine-crisis"><pre><img align="center" width="25" src="img/flag-ukraine.png"> Donate to Ukraine </pre></a></div>
+<div align="center">
+  <br/><a href="https://www.rary.dev" target="_blank"><pre>www.rary.dev © 2022</pre></a>
+</div>
