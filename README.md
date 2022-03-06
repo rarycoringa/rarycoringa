@@ -12,10 +12,13 @@
 
 <div align="left">
   <p>
-    I'm a brazilian <b>Software Developer</b> with experience in <b>Web Development</b> with <b>Python</b> <i>(Flask and Django)</i>. I am also an enthusiast of the <b>DevOps</b> culture as an agile methodology in software development and currently study <b>Docker</b> and <b>Kubernetes</b>.
+    I'm a brazilian <b>Software Developer</b> with experience in <b>Web Development</b> using <b>Python</b> <i>(Flask and Django)</i>. I am also an enthusiast of the <b>DevOps</b> culture as an agile methodology in the software development and currently learn about <b>Docker</b> and <b>Kubernetes</b>.
   </p>
   <p>
-    I'm currently working as <i>Python Developer</i> at <a href="https://devgrid.co.uk" target="_blank"><b>DevGrid</b></a>, with international teams, delivering to customers in United Kingdom, United States and Europe Union.
+    Currently I'm working as a <i>Python Developer</i> at <a href="https://devgrid.co.uk" target="_blank"><b>DevGrid</b></a>, based in <i>United Kingdom</i>, where I am contributing with <i>international teams</i> and delivering products with <i>quality</i> and <i>commitment</i> to customers in <b>United Kingdom</b>, <b>United States</b> and <b>Europe Union</b>.
+  </p>
+  <p>
+    As well I'm studying the <b>Information Technology</b> bachelor's degree with emphasis in <i>Software Development</i> at <a href="https://www.metropoledigital.ufrn.br" target="_blank"><b>Metrópole Digital</b></a> department, from <a href="https://ufrn.br" target="_blank"><b>Federal University of Rio Grande do Norte</b></a>.
   </p>
 </div>
 
