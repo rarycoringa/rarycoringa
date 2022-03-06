@@ -1,9 +1,11 @@
 <h1> Hi, I'm Rary! 👋🏽👨🏽‍💻</h1>
+
 <!-- These flags are found on https://emojipedia.org/flags/ and the Twitter emoji version is being used here -->
-<img align="right" width="25" src="img/flag-united-states.png">
-<img align="right" width="25" src="img/flag-united-kingdom.png">
-<img align="right" width="25" src="img/flag-brazil.png">
-<div align="left"><a href="https://help.rescue.org/donate-br/ukraine-crisis" target="_blank"><img align="center" width="25" src="img/flag-ukraine.png"><b> donate to Ukraine</b><img align="center" width="25" src="img/flag-white.png"></a></div>
+<img align="left" width="25" src="img/flag-brazil.png">
+<img align="left" width="25" src="img/flag-united-kingdom.png">
+<img align="left" width="25" src="img/flag-united-states.png">
+<div align="right"><a href="https://help.rescue.org/donate-br/ukraine-crisis" target="_blank"><img align="center" width="25" src="img/flag-white.png"><b> donate to Ukraine </b><img align="center" width="25" src="img/flag-ukraine.png"></a></div>
+
 <h4>ABOUT ME</h4>
 
 <div align="left">
