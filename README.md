@@ -20,12 +20,15 @@
 </div>
 
 <div align="left">
-  <!--  add social links here  -->
+  <a href="https://www.instagram.com/rarycoringa/" target="_blank"><img align="right" width="25" src="img/icons/instagram.png"></a>
+  <a href="https://twitter.com/rarycoringa" target="_blank"><img align="right" width="25" src="img/icons/twitter.png"></a>
+  <a href="https://medium.com/@rarycoringa" target="_blank"><img align="right" width="25" src="img/icons/medium.png"></a>
+  <a href="https://www.linkedin.com/in/rarycoringa/" target="_blank"><img align="right" width="25" src="img/icons/linkedin.png"></a>
   <img align="left" width="45" src="img/logos/red.png">
   <b>Rary Coringa</b>
   <br/>Software Developer
 </div>
 
 <div align="center">
-  <br/><a href="https://www.rary.dev" target="_blank"><pre>rary.dev © 2022</pre></a>
+  <br/><a href="https://www.rary.dev/" target="_blank"><pre>rary.dev © 2022</pre></a>
 </div>
