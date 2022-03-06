@@ -8,9 +8,9 @@
 <img align="left" width="25" src="img/flags/italy.png">
 <div align="right"><a href="https://help.rescue.org/donate-br/ukraine-crisis" target="_blank"><img align="center" width="25" src="img/flags/white.png"><b> donate to Ukraine </b><img align="center" width="25" src="img/flags/ukraine.png"></a></div>
 
-<h4>ABOUT ME</h4>
-
-<div align="left">
+<details open>
+  <summary><h4>ABOUT ME</h4></summary>
+  
   <p>
     I'm a brazilian <b>Software Developer</b> with experience in <b>Web Development</b> using <b>Python</b> <i>(Flask and Django)</i>. I am also an enthusiast of the <b>DevOps</b> culture as an agile methodology in the software development and currently learn about <b>Docker</b> and <b>Kubernetes</b>.
   </p>
@@ -20,9 +20,15 @@
   <p>
     As well I'm studying the <b>Information Technology</b> <i>(bachelor's degree)</i> with emphasis in <i>Software Development</i> at <a href="https://www.metropoledigital.ufrn.br" target="_blank"><b>Metrópole Digital</b></a> department, from <a href="https://ufrn.br" target="_blank"><b>Federal University of Rio Grande do Norte</b></a>.
   </p>
-</div>
+</details>
+<details>
+  <summary><h4>MY SKILLS</h4></summary>
+  
+  <i>{ under development }</i>
+</details>
 
 <div align="left">
+  <br/>
   <!-- These icons are found on https://simpleicons.org/ as .svg (a work on Figma was done to color and convert to png) -->
   <a href="https://t.me/rarycoringa" target="_blank"><img align="right" width="25" src="img/icons/telegram.png"></a>
   <a href="https://www.instagram.com/rarycoringa/" target="_blank"><img align="right" width="25" src="img/icons/instagram.png"></a>
