@@ -3,8 +3,7 @@
 <img align="right" width="25" src="img/flag-united-states.png">
 <img align="right" width="25" src="img/flag-united-kingdom.png">
 <img align="right" width="25" src="img/flag-brazil.png">
-<div align="left"><a href="https://help.rescue.org/donate-br/ukraine-crisis" target="_blank"><img align="center" width="25" src="img/flag-ukraine.png"> Donate to Ukraine</a></div>
-
+<div align="left"><a href="https://help.rescue.org/donate-br/ukraine-crisis" target="_blank"><img align="center" width="25" src="img/flag-ukraine.png"><b> donate to Ukraine</b><img align="center" width="25" src="img/flag-white.png"></a></div>
 <h4>ABOUT ME</h4>
 
 <div align="left">
