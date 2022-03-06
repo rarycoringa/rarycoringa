@@ -1,10 +1,10 @@
 <h1> Hi, I'm Rary! 👋🏽👨🏽‍💻</h1>
 
 <!-- These flags are found on https://emojipedia.org/flags/ and the Twitter emoji version is being used here -->
-<img align="left" width="25" src="img/flag-brazil.png">
-<img align="left" width="25" src="img/flag-united-kingdom.png">
-<img align="left" width="25" src="img/flag-united-states.png">
-<div align="right"><a href="https://help.rescue.org/donate-br/ukraine-crisis" target="_blank"><img align="center" width="25" src="img/flag-white.png"><b> donate to Ukraine </b><img align="center" width="25" src="img/flag-ukraine.png"></a></div>
+<img align="left" width="25" src="img/flags/brazil.png">
+<img align="left" width="25" src="img/flags/united-kingdom.png">
+<img align="left" width="25" src="img/flags/united-states.png">
+<div align="right"><a href="https://help.rescue.org/donate-br/ukraine-crisis" target="_blank"><img align="center" width="25" src="img/flags/white.png"><b> donate to Ukraine </b><img align="center" width="25" src="img/flags/ukraine.png"></a></div>
 
 <h4>ABOUT ME</h4>
 
@@ -19,7 +19,7 @@
 
 <div align="left">
   <!--  add social links here  -->
-  <img align="left" width="45" src="img/r-orange.png">
+  <img align="left" width="45" src="img/logos/red.png">
   <b>Rary Coringa</b>
   <br/>Software Developer
 </div>
