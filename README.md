@@ -30,9 +30,10 @@
   <a href="https://medium.com/@rarycoringa" target="_blank"><img align="right" width="25" src="img/icons/medium.png"></a>
   <a href="https://www.linkedin.com/in/rarycoringa/" target="_blank"><img align="right" width="25" src="img/icons/linkedin.png"></a>
   
-  <img align="left" width="45" src="img/logos/red.png">
+  <img align="left" width="70" src="img/logos/red.png">
   <b>Rary Coringa</b>
   <br/>Software Developer
+  <br/><i>contact@rary.dev</i>
 </div>
 
 <div align="center">
