@@ -24,5 +24,5 @@
 </div>
 
 <div align="center">
-  <br/><a href="https://www.rary.dev" target="_blank"><pre>www.rary.dev © 2022</pre></a>
+  <br/><a href="https://www.rary.dev" target="_blank"><pre>rary.dev © 2022</pre></a>
 </div>
