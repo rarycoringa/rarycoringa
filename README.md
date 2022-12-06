@@ -6,7 +6,7 @@
 <img align="left" width="25" src="img/flags/united-states.png">
 <img align="left" width="25" src="img/flags/spain.png">
 <img align="left" width="25" src="img/flags/italy.png">
-<div align="right"><a href="https://help.rescue.org/donate-br/ukraine-crisis" target="_blank"><img align="center" width="25" src="img/flags/white.png"><b> donate to Ukraine </b><img align="center" width="25" src="img/flags/ukraine.png"></a></div>
+<div align="right"><a href="https://help.rescue.org/donate/ukraine-crisis" target="_blank"><img align="center" width="25" src="img/flags/white.png"><b> donate to Ukraine </b><img align="center" width="25" src="img/flags/ukraine.png"></a></div>
 
 <!-- <details open> -->
 <!--   <summary><h4>ABOUT ME</h4></summary> -->
