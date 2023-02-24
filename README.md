@@ -37,9 +37,9 @@
   <img align="left" width="70" src="img/logos/red.png">
   <b>Rary Coringa</b>
   <br/>Software & Consultancy
-  <br/><i>contact@rary.dev</i>
+  <br/><i>contact@rarycoringa.dev</i>
 </div>
 
 <div align="center">
-  <br/><a href="https://www.rary.dev/" target="_blank"><pre>rary.dev © 2022</pre></a>
+  <br/><a href="https://www.rarycoringa.dev/" target="_blank"><pre>rarycoringa.dev © 2023</pre></a>
 </div>
