@@ -13,7 +13,7 @@
 <h4>ABOUT ME</h4>
 
 <p>
-  I'm a brazilian <b>Software Developer</b> with experience in <b>Web Development</b> using <b>Python</b> <i>(Flask, FastAPI and Django)</i>. I am also an enthusiast of the <b>DevOps</b> culture as an agile methodology in the software development and currently I'm learning <b>Java</b> <i>(Spring Boot and your ecosystem)</i>.
+  I'm a brazilian <b>Software Engineer</b> with experience in <b>Web Development</b> using <b>Python</b> <i>(Flask, FastAPI and Django)</i>. I am also an enthusiast of the <b>DevOps</b> culture as an agile methodology in the software development and currently I'm learning <b>Java</b> <i>(Spring Boot and your ecosystem)</i>.
 </p>
 <p>
   Currently I'm working as a <i>Python Developer</i> at <a href="https://devgrid.co.uk" target="_blank"><b>DevGrid</b></a>, based in <i>United Kingdom</i>, where I am contributing with <i>international teams</i> and delivering products with <i>quality</i> and <i>commitment</i> to customers in <b>United Kingdom</b>, <b>United States</b> and <b>Europe Union</b>.
@@ -37,9 +37,9 @@
   <img align="left" width="70" src="img/logos/red.png">
   <b>Rary Coringa</b>
   <br/>Software & Consultancy
-  <br/><i>contact@rarycoringa.dev</i>
+  <br/><i>rarycoringa@gmail.com</i>
 </div>
 
 <div align="center">
-  <br/><a href="https://www.rarycoringa.dev/" target="_blank"><pre>rarycoringa.dev © 2023</pre></a>
+  <br/><pre>Rary Coringa Software & Consultancy © 2023</pre>
 </div>
