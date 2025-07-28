@@ -2,11 +2,13 @@
 
 #### ABOUT ME
 
-I am a Software Engineer with a strong focus on distributed systems and cloud-native architectures.
+I am a Software Engineer with a strong focus on distributed systems and cloud-native architectures. I'm currently working remotely for a UK-based company, collaborating with an international team.
 
-My main expertise lies in Python, where I’ve built scalable APIs, workflow engines, and data-intensive services using modern frameworks and libraries.
+My main expertise is in Python, where I’ve built scalable APIs, workflow engines, and data-intensive services using modern frameworks and libraries.
 
-I'm currently expanding my skills into Java with Spring Boot and Spring Cloud, diving into distributed systems, microservice patterns, and resilient service design.
+Lately, I’ve been expanding my skills into Java with Spring Boot and Spring Cloud, diving deeper into microservice patterns, resilient service design, and distributed systems.
+
+I’ve also been learning about gRPC to build efficient, language-agnostic communication between services in distributed environments.
 
 <div align="left">
   <br/>
